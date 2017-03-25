@@ -1,10 +1,10 @@
 ### Team (your team name here)
 
 ### Team Members
-* first_name last_name (uniqname)
-* first_name last_name (uniqname)
-* first_name last_name (uniqname)
-* first_name last_name (uniqname)
+* Maria Malinowski (marmalin)
+* Sita Subramanian (sitas)
+* Sarah Andrews (sarand)
+* Nathan Rich (nprich)
 
 ### Overall Project Description
 Please include a brief description here of what your website will do overall, and how users will interact with it. Think about how you would describe your website to a friend. Ideally, also describe how your team hopes to make your website unique.  This description need not be more than 3-4 sentences.
